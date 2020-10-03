@@ -1,5 +1,6 @@
 # terminal-banner
 beautify the appearance of the python terminal application.
+<br><strong>setup dev require :$ pip3 install init/<a href="https://raw.githubusercontent.com/ExsoKamabay/terminal-banner/main/banner-terminal/init/dev-requirements.txt">dev-requirements.txt</a>/</strong><br>
 <img src="https://raw.githubusercontent.com/ExsoKamabay/terminal-banner/main/banner-terminal/screenShoot.png" alt="contoh pemanggilan">
 
             nama class ' Terminal_banner ' dengan parameter sesuai fungsi yang di panggil.
