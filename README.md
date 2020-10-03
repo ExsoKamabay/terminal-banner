@@ -1,5 +1,6 @@
 # terminal-banner
 beautify the appearance of the python terminal application.
+<img src="https://raw.githubusercontent.com/ExsoKamabay/terminal-banner/main/banner-terminal/screenShoot.png" alt="contoh pemanggilan">
 
             nama class ' Terminal_banner ' dengan parameter sesuai fungsi yang di panggil.
             contoh pemanggilan fungsi : Terminal_banner( parameter ).nama_fungsi
@@ -1065,4 +1066,3 @@ beautify the appearance of the python terminal application.
                                     zoo
                                     zorro
                                     zulu
-
