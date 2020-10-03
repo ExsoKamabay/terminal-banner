@@ -1,0 +1,5 @@
+bs4==0.0.1
+art==4.8
+url64==0.0.2
+requests==2.24.0
+string-color==1.2.1
